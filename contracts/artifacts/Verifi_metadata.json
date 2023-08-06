@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Verification.sol": "Name"
+			"contracts/Verification.sol": "Verifi"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Verification.sol": {
-			"keccak256": "0x5b866321030858f019469c76376a5a96a5bc3a790d158c87c7a18dabd014a8a5",
+			"keccak256": "0xf1bc7354c8353c12b9028da27a27e7c27cc09f22f07871d94ebe3f117fd7297b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3926bb48a225ac46bcb4d8d47c4e325d7025128e1a1cf6903901090631fd8d",
-				"dweb:/ipfs/QmUPNVj1Fw9bTFEaa5a3rwvMND7LrC3yii1vAsWS5Waazf"
+				"bzz-raw://51937184dbc7f34b7bed585b72df2700c2c0a944a90711cf1e8f691bfcae6236",
+				"dweb:/ipfs/QmcwUrtDwu7WLHNJNQHykXvHD4rwiDKVzR8KAYXLkUcfHU"
 			]
 		}
 	},

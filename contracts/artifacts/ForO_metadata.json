@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Verification.sol": "Name"
+			"contracts/Inheritance.sol": "ForO"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Verification.sol": {
-			"keccak256": "0x5b866321030858f019469c76376a5a96a5bc3a790d158c87c7a18dabd014a8a5",
+		"contracts/Inheritance.sol": {
+			"keccak256": "0xf4d689306542d248bdf107c13c810456827fddec0b0d09ee2bbc84256bd9ccbf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3926bb48a225ac46bcb4d8d47c4e325d7025128e1a1cf6903901090631fd8d",
-				"dweb:/ipfs/QmUPNVj1Fw9bTFEaa5a3rwvMND7LrC3yii1vAsWS5Waazf"
+				"bzz-raw://c54629703b9f83a98ffbd7829d8c4b27a22f211fce7f3b12d97101d07b013eeb",
+				"dweb:/ipfs/QmethfAf9PjvEubEXCzTCuRnhGJ7aNTg16b9rhdDw8ePwK"
 			]
 		}
 	},

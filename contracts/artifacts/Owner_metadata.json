@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Verification.sol": "Name"
+			"contracts/Inheritance.sol": "Owner"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Verification.sol": {
-			"keccak256": "0x5b866321030858f019469c76376a5a96a5bc3a790d158c87c7a18dabd014a8a5",
+		"contracts/Inheritance.sol": {
+			"keccak256": "0x03f3ef5b30475b13ec77a3389f8c1de276caa9e064ec216c350999be88ecdabf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3926bb48a225ac46bcb4d8d47c4e325d7025128e1a1cf6903901090631fd8d",
-				"dweb:/ipfs/QmUPNVj1Fw9bTFEaa5a3rwvMND7LrC3yii1vAsWS5Waazf"
+				"bzz-raw://77ec543c3c77ca0c61cab2e16127fd4d65cc52cad5495707e2c92552d91bd3c8",
+				"dweb:/ipfs/QmdNPKSZTF8TLsHF28jg66nC8EXCSm6VsdsJ9E38thyvX7"
 			]
 		}
 	},

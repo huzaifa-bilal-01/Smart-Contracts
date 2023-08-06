@@ -4,7 +4,13 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +24,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Verification.sol": "Name"
+			"contracts/OnlyForOwner.sol": "ForOwner"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -32,12 +38,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Verification.sol": {
-			"keccak256": "0x5b866321030858f019469c76376a5a96a5bc3a790d158c87c7a18dabd014a8a5",
+		"contracts/OnlyForOwner.sol": {
+			"keccak256": "0x283d6342b7c02757e6c872ec0892853920e49d6f00c634f11b33ebe49d55688e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3926bb48a225ac46bcb4d8d47c4e325d7025128e1a1cf6903901090631fd8d",
-				"dweb:/ipfs/QmUPNVj1Fw9bTFEaa5a3rwvMND7LrC3yii1vAsWS5Waazf"
+				"bzz-raw://a6c8b16e7e08bdfb780ee4cf9b21f0ca41a7421f4e6430be38c4cd71e6e7727c",
+				"dweb:/ipfs/QmU7pB9asdR5yVB5UadzZoKQPqbEjEGiNzG9jbEUdSSPN5"
 			]
 		}
 	},

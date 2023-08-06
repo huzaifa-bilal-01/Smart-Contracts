@@ -4,7 +4,19 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "selfDestroy",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +30,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Verification.sol": "Name"
+			"contracts/Selfdestruct.sol": "SelfDestruct"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -32,12 +44,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Verification.sol": {
-			"keccak256": "0x5b866321030858f019469c76376a5a96a5bc3a790d158c87c7a18dabd014a8a5",
+		"contracts/Selfdestruct.sol": {
+			"keccak256": "0x58067f901ee04c1b6435bf15002659e8bbd2883a65ac3362f3071f52912b8c28",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3926bb48a225ac46bcb4d8d47c4e325d7025128e1a1cf6903901090631fd8d",
-				"dweb:/ipfs/QmUPNVj1Fw9bTFEaa5a3rwvMND7LrC3yii1vAsWS5Waazf"
+				"bzz-raw://752a57c91cb4f811e2461beb60af34821787324e0c6e3d0e91f3f367e3416d74",
+				"dweb:/ipfs/QmRMncsNZQezgrvytLjkqc5QMx3jADkv1YJAbqAgZVUkEc"
 			]
 		}
 	},
